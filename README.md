@@ -27,11 +27,11 @@ An interactive dashboard analyzing key factors behind employee attrition (e.g., 
 ## 📂 Repository Structure
 HR-Analytics-Dashboard/
 ├── data/ # Cleaned dataset
-│ └── employee_attrition.csv
+│ └── HR_Analytics.csv
 ├── powerbi/
-│ └── HR_Analytics.pbix
+│ └── HR_Analytics_PowerBI.pbix
 ├── tableau/
-│ └── HR_Analytics.twbx
+│ └── HR_Analytics_tableau.twbx
 ├── docs/ # Report & screenshots
 │ ├── Critical_Reflection.pdf
 │ └── screenshots/
